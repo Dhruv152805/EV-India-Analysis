@@ -4,7 +4,8 @@ Week 1 – EV India Data Cleaning & Visualization
 
 a.Overview
 
-Cleaned and analyzed Electric Vehicle (EV) and Charging Station datasets for India. Performed preprocessing, EDA, and created visualizations to understand EV performance and station distribution.
+Cleaned and analyzed Electric Vehicle (EV) and Charging Station datasets for India.
+Performed preprocessing, EDA, and created visualizations to understand EV performance and station distribution.
 
 b.Data Preprocessing
 
