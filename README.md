@@ -31,4 +31,4 @@ Created interactive map of stations across India using Plotly
 
 c.Tools Used
 
-Python | Pandas | NumPy | Matplotlib | Seaborn | Plotly
+Python ,Pandas ,NumPy ,Matplotlib ,Seaborn ,Plotly
