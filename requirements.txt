@@ -9,3 +9,5 @@ openai
 geopy
 folium
 scikit-learn
+folium
+streamlit-folium
